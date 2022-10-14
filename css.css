@@ -275,3 +275,12 @@ ul li a:hover{
     font-family: 'Times New Roman', Times, serif;
     font-size:15px;
   }
+  .ash{
+    border-style: solid;
+    width:300px;
+    margin:100px;
+    padding:40px;
+  }
+  .hand{
+    font-size:10px;
+  }
